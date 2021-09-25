@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UBACodingTest/1.0.0": {
+        "runtime": {
+          "UBACodingTest.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UBACodingTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
